@@ -1,10 +1,9 @@
 <h3> Hello! 👋 </h3>
-I’m Georgette. <br> 
+I’m Georgette.
 🌱 Interest:
 <ul>
 <li>Web development.</li>
 </ul>
-<br>
 📫 Reach me through LinkedIn! https://www.linkedin.com/in/georgette-dalen-7279611b5/ 
 
 <!---
