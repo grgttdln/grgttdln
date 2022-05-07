@@ -1,14 +1,11 @@
 <h3> Hello! 👋 </h3>
-I’m Georgette. 
-
-<br>
+I’m Georgette. <br> 
 🌱 Interest:
 <ul>
 <li>Web development.</li>
 </ul>
-
 <br>
-📫 Reach me through LinkedIn! https://www.linkedin.com/in/georgette-dalen-7279611b5/
+📫 Reach me through LinkedIn! https://www.linkedin.com/in/georgette-dalen-7279611b5/ 
 
 <!---
 grgttdln/grgttdln is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
