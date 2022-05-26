@@ -6,7 +6,7 @@ I’m Georgette.
 <ul>
 <li>Web development.</li>
 </ul>
-📫 Reach me through LinkedIn! https://www.linkedin.com/in/georgette-dalen-7279611b5/ 
+📫 Reach me through LinkedIn! https://www.linkedin.com/in/georgettedalen/
 
 <!---
 grgttdln/grgttdln is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
