@@ -6,7 +6,7 @@ I’m Georgette.
 <ul>
 <li>Web development.</li>
 </ul>
-<br>
+
 📫 Reach me through LinkedIn!
 <h4 align="left">Connect with me:</h4>
 <p align="left">
