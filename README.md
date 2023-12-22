@@ -1,3 +1,4 @@
+![MasterHead](https://github.com/grgttdln/grgttdln/assets/85463029/957fa3a5-bf05-4967-aa80-0666097e4bc8)
 
 <h1 align="center">Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Georgette Dalen</h1>
 <h3 align="center">I am a computer science student from the Philippines.</h3>
@@ -11,7 +12,8 @@
 
 💬 Connect with me! www.linkedin.com/in/georgettedalen
 
-<h3> Git Commands Cheat Sheet 😎 </h3>
+<br>
+<h2> Git Commands Cheat Sheet 😎 </h2>
 
 ```html
 
