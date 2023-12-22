@@ -66,4 +66,15 @@
    > Terminal Output:
      * main
 
+
+6. git merge
+   Description: Join specified [branched name] branch into your current branch.
+   Usage: git merge [branch name]
+   Example: git merge feature-branch
+
+7. git fetch
+   Description: Fetch changes from the remote, but not update tracking branches.
+   Usage: git fetch
+   Example: git fetch
+
 ```
