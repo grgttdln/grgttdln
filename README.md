@@ -72,9 +72,9 @@
    Usage: git merge [branch name]
    Example: git merge feature-branch
 
+
 7. git fetch
    Description: Fetch changes from the remote, but not update tracking branches.
    Usage: git fetch
    Example: git fetch
-
 ```
