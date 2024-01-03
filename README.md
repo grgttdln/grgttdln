@@ -12,6 +12,8 @@
 
 💬 Connect with me! www.linkedin.com/in/georgettedalen
 
+📫 Visit my website that is severely outdated: https://grgttdln.github.io
+
 👾 Learning new programming languages
 
 💼 Always open for opportunities and collaborations
