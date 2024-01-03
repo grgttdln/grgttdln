@@ -3,17 +3,24 @@
 <h1 align="center">Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Georgette Dalen</h1>
 <h3 align="center">I am a computer science student from the Philippines.</h3>
 
+## 👩🏻‍💻 <b>About Me!</b>
+
 🌱 Interests:
 - Web development
 - Software development
 - Data Science
 
-⚡ Fun fact I love to watch 90s movies!
-
 💬 Connect with me! www.linkedin.com/in/georgettedalen
 
+👾 Learning new programming languages
+
+💼 Always open for opportunities and collaborations
+
+⚡ Fun fact I love to watch 90s movies
+
 <br>
-<h2> Git Commands Cheat Sheet 😎 </h2>
+
+## 😎 <b>Git Commands Cheat Sheet</b>
 
 ```html
 
