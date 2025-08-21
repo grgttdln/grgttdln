@@ -26,7 +26,7 @@ A passionate **Computer Science student at Mapúa Malayan Colleges Laguna**, on 
 Here’s what I spend most of my time building with (and occasionally debugging 😅):
 
 ### 🛠️ Tech Stack  
-#### 💻 Languages
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 </a> 
@@ -42,10 +42,6 @@ Here’s what I spend most of my time building with (and occasionally debugging 
 <a href="https://en.cppreference.com/w/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/> 
 </a>
-
-<br>
-
-#### 🌐 Web Development
 <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
 </a> 
@@ -64,10 +60,6 @@ Here’s what I spend most of my time building with (and occasionally debugging 
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
 </a>
-
-<br>
-
-#### 🗄️ Databases / BaaS
 <a href="https://supabase.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="supabase" width="40" height="40"/> 
 </a> 
@@ -80,10 +72,6 @@ Here’s what I spend most of my time building with (and occasionally debugging 
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> 
 </a>
-
-<br>
-
-#### 📱 Mobile Development
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
   <img src="https://reactnative.dev/img/header_logo.svg" alt="react native" width="40" height="40"/> 
 </a> 
@@ -96,10 +84,6 @@ Here’s what I spend most of my time building with (and occasionally debugging 
 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/> 
 </a>  
-
-<br>
-
-#### 🧠 Data Science & ML
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/> 
 </a> 
@@ -124,10 +108,6 @@ Here’s what I spend most of my time building with (and occasionally debugging 
 <a href="https://www.kaggle.com/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg" alt="kaggle" width="40" height="40"/> 
 </a>
-
-
-
-#### 🔧 Other Tools
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 </a> 
