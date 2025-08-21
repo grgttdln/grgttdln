@@ -1,6 +1,3 @@
-<img src="https://github.com/grgttdln/grgttdln/assets/85463029/957fa3a5-bf05-4967-aa80-0666097e4bc8" width="100%">
-
-
 ## 👋 Hello There!
 
 I’m **Georgette Dalen Cadiz** 👩🏻‍💻
